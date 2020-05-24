@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>3 | Yuexi Wang</title>
-    <link>/publication_types/3/</link>
-      <atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
-    <description>3</description>
+    <title>Nicholas G Polson | Yuexi Wang</title>
+    <link>/authors/nicholas-g-polson/</link>
+      <atom:link href="/authors/nicholas-g-polson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nicholas G Polson</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 22 Mar 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>3</title>
-      <link>/publication_types/3/</link>
+      <title>Nicholas G Polson</title>
+      <link>/authors/nicholas-g-polson/</link>
     </image>
     
     <item>
@@ -19,16 +19,6 @@
       <guid>/publication/da-dl/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;h1 id=&#34;supplementary-notes-can-be-added-here-including-code-and-mathhttpssourcethemescomacademicdocswriting-markdown-latex&#34;&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Variable Selection with ABC Bayesian Forests</title>
-      <link>/publication/abcforest/</link>
-      <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/abcforest/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     

@@ -5,7 +5,7 @@
     <link>/authors/veronika-rockova/</link>
       <atom:link href="/authors/veronika-rockova/index.xml" rel="self" type="application/rss+xml" />
     <description>Veronika Rockova</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 29 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Veronika Rockova</title>
@@ -14,9 +14,19 @@
     
     <item>
       <title>Uncertainty Quantification for Sparse Deep Learning</title>
-      <link>/publication/conference-paper/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/</guid>
+      <link>/publication/uq-dl/</link>
+      <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/uq-dl/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Variable Selection with ABC Bayesian Forests</title>
+      <link>/publication/abcforest/</link>
+      <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/abcforest/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 </description>

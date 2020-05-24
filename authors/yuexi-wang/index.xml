@@ -5,7 +5,7 @@
     <link>/authors/yuexi-wang/</link>
       <atom:link href="/authors/yuexi-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Yuexi Wang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 29 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Yuexi Wang</title>
@@ -14,9 +14,29 @@
     
     <item>
       <title>Uncertainty Quantification for Sparse Deep Learning</title>
-      <link>/publication/conference-paper/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/</guid>
+      <link>/publication/uq-dl/</link>
+      <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/uq-dl/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scalable Data Augmentation for Deep Learning</title>
+      <link>/publication/da-dl/</link>
+      <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/da-dl/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;h1 id=&#34;supplementary-notes-can-be-added-here-including-code-and-mathhttpssourcethemescomacademicdocswriting-markdown-latex&#34;&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Variable Selection with ABC Bayesian Forests</title>
+      <link>/publication/abcforest/</link>
+      <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/abcforest/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 </description>
