@@ -3,7 +3,98 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/</loc>
+    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/source-themes/</loc>
+    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/abcforest/</loc>
+    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/veronika-rockova/</loc>
+    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/yi-liu/</loc>
+    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/yuexi-wang/</loc>
+    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/1/</loc>
+    <lastmod>2020-02-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/uq-dl/</loc>
+    <lastmod>2020-02-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/3/</loc>
+    <lastmod>2019-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/nicholas-g-polson/</loc>
+    <lastmod>2019-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/da-dl/</loc>
+    <lastmod>2019-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/vadim-sokolov/</loc>
+    <lastmod>2019-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -11,15 +102,15 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
+    <loc>/post/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/talk/</loc>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/authors/admin/</loc>
   </url>
   
 </urlset>
