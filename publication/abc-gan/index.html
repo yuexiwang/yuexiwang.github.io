@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Deep learning methods continue to have a decided impact on machine learning, both in theory and in practice. Statistical theoretical developments have been mostly concerned with approximability or rates of estimation when recovering infinite dimensional objects (curves or densities). Despite the impressive array of available theoretical results, the literature has been largely silent about uncertainty quantification for deep learning. This paper takes a step forward in this important direction by taking a Bayesian point of view. We study Gaussian approximability of certain aspects of posterior distributions of sparse deep ReLU architectures in non-parametric regression. Building on tools from Bayesian non-parametrics, we provide semi-parametric Bernstein-von Mises theorems for linear and quadratic functionals, which guarantee that implied Bayesian credible regions have valid frequentist coverage. Our results provide new theoretical justifications for (Bayesian) deep learning with ReLU activation functions, highlighting their inferential potential.">
+  <meta name="description" content="Approximate Bayesian Computation (ABC) enables statistical inference in complex models whose likelihoods are difficult to calculate but easy to simulate from. ABC constructs a kernel-type approximation to the posterior distribution through an accept/reject mechanism which compares summary statistics of real and simulated data. To obviate the need for summary statistics, we directly compare empirical distributions with a Kullback-Leibler (KL) divergence estimator obtained via classification. In particular, we blend flexible machine learning classifiers within ABC to automate fake/real data comparisons. We consider the traditional accept/reject kernel as well as an exponential weighting scheme which does not require the ABC acceptance threshold. Our theoretical results show that the rate at which our ABC posterior distributions concentrate around the true parameter depends on the estimation error of the classifier. We derive limiting posterior shape results and find that, with a properly scaled exponential kernel, asymptotic normality holds. We demonstrate the usefulness of our approach on simulated examples as well as real data in the context of stock volatility estimation.">
 
   
-  <link rel="alternate" hreflang="en-us" href="/publication/uq-dl/">
+  <link rel="alternate" hreflang="en-us" href="/publication/abc-gan/">
 
   
 
@@ -98,7 +98,7 @@
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/publication/uq-dl/">
+  <link rel="canonical" href="/publication/abc-gan/">
 
   
   
@@ -111,15 +111,15 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Yuexi Wang">
-  <meta property="og:url" content="/publication/uq-dl/">
-  <meta property="og:title" content="Uncertainty Quantification for Sparse Deep Learning | Yuexi Wang">
-  <meta property="og:description" content="Deep learning methods continue to have a decided impact on machine learning, both in theory and in practice. Statistical theoretical developments have been mostly concerned with approximability or rates of estimation when recovering infinite dimensional objects (curves or densities). Despite the impressive array of available theoretical results, the literature has been largely silent about uncertainty quantification for deep learning. This paper takes a step forward in this important direction by taking a Bayesian point of view. We study Gaussian approximability of certain aspects of posterior distributions of sparse deep ReLU architectures in non-parametric regression. Building on tools from Bayesian non-parametrics, we provide semi-parametric Bernstein-von Mises theorems for linear and quadratic functionals, which guarantee that implied Bayesian credible regions have valid frequentist coverage. Our results provide new theoretical justifications for (Bayesian) deep learning with ReLU activation functions, highlighting their inferential potential."><meta property="og:image" content="/img/icon-192.png">
+  <meta property="og:url" content="/publication/abc-gan/">
+  <meta property="og:title" content="Approximate Bayesian Computation via Classification | Yuexi Wang">
+  <meta property="og:description" content="Approximate Bayesian Computation (ABC) enables statistical inference in complex models whose likelihoods are difficult to calculate but easy to simulate from. ABC constructs a kernel-type approximation to the posterior distribution through an accept/reject mechanism which compares summary statistics of real and simulated data. To obviate the need for summary statistics, we directly compare empirical distributions with a Kullback-Leibler (KL) divergence estimator obtained via classification. In particular, we blend flexible machine learning classifiers within ABC to automate fake/real data comparisons. We consider the traditional accept/reject kernel as well as an exponential weighting scheme which does not require the ABC acceptance threshold. Our theoretical results show that the rate at which our ABC posterior distributions concentrate around the true parameter depends on the estimation error of the classifier. We derive limiting posterior shape results and find that, with a properly scaled exponential kernel, asymptotic normality holds. We demonstrate the usefulness of our approach on simulated examples as well as real data in the context of stock volatility estimation."><meta property="og:image" content="/img/icon-192.png">
   <meta property="twitter:image" content="/img/icon-192.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2017-01-01T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2020-02-29T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2021-11-24T00:00:00&#43;00:00">
   
 
   
@@ -143,12 +143,12 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "/publication/uq-dl/"
+    "@id": "/publication/abc-gan/"
   },
-  "headline": "Uncertainty Quantification for Sparse Deep Learning",
+  "headline": "Approximate Bayesian Computation via Classification",
   
   "datePublished": "2017-01-01T00:00:00Z",
-  "dateModified": "2020-02-29T00:00:00Z",
+  "dateModified": "2021-11-24T00:00:00Z",
   
   "author": {
     "@type": "Person",
@@ -163,7 +163,7 @@
       "url": "/img/icon-512.png"
     }
   },
-  "description": "Deep learning methods continue to have a decided impact on machine learning, both in theory and in practice. Statistical theoretical developments have been mostly concerned with approximability or rates of estimation when recovering infinite dimensional objects (curves or densities). Despite the impressive array of available theoretical results, the literature has been largely silent about uncertainty quantification for deep learning. This paper takes a step forward in this important direction by taking a Bayesian point of view. We study Gaussian approximability of certain aspects of posterior distributions of sparse deep ReLU architectures in non-parametric regression. Building on tools from Bayesian non-parametrics, we provide semi-parametric Bernstein-von Mises theorems for linear and quadratic functionals, which guarantee that implied Bayesian credible regions have valid frequentist coverage. Our results provide new theoretical justifications for (Bayesian) deep learning with ReLU activation functions, highlighting their inferential potential."
+  "description": "Approximate Bayesian Computation (ABC) enables statistical inference in complex models whose likelihoods are difficult to calculate but easy to simulate from. ABC constructs a kernel-type approximation to the posterior distribution through an accept/reject mechanism which compares summary statistics of real and simulated data. To obviate the need for summary statistics, we directly compare empirical distributions with a Kullback-Leibler (KL) divergence estimator obtained via classification. In particular, we blend flexible machine learning classifiers within ABC to automate fake/real data comparisons. We consider the traditional accept/reject kernel as well as an exponential weighting scheme which does not require the ABC acceptance threshold. Our theoretical results show that the rate at which our ABC posterior distributions concentrate around the true parameter depends on the estimation error of the classifier. We derive limiting posterior shape results and find that, with a properly scaled exponential kernel, asymptotic normality holds. We demonstrate the usefulness of our approach on simulated examples as well as real data in the context of stock volatility estimation."
 }
 </script>
 
@@ -181,7 +181,7 @@
 
 
 
-  <title>Uncertainty Quantification for Sparse Deep Learning | Yuexi Wang</title>
+  <title>Approximate Bayesian Computation via Classification | Yuexi Wang</title>
 
 </head>
 
@@ -430,7 +430,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Uncertainty Quantification for Sparse Deep Learning</h1>
+  <h1>Approximate Bayesian Computation via Classification</h1>
 
   
 
@@ -450,7 +450,7 @@
 
 
   
-  <span><a href="/authors/yuexi-wang/">Yuexi Wang</a></span>, <span><a href="/authors/veronika-rockova/">Veronika Rockova</a></span>
+  <span><a href="/authors/yuexi-wang/">Yuexi Wang</a></span>, <span><a href="/authors/tetsuya-kaji/">Tetsuya Kaji</a></span>, <span><a href="/authors/veronika-rockova/">Veronika Rockova</a></span>
 
   </div>
   
@@ -462,7 +462,7 @@
     
       
     
-    February 2020
+    November 2021
   </span>
   
 
@@ -512,14 +512,14 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/pdf/2002.11815.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/pdf/2111.11507.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/uq-dl/cite.bib">
+        data-filename="/publication/abc-gan/cite.bib">
   Cite
 </button>
 
@@ -549,7 +549,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Deep learning methods continue to have a decided impact on machine learning, both in theory and in practice. Statistical theoretical developments have been mostly concerned with approximability or rates of estimation when recovering infinite dimensional objects (curves or densities). Despite the impressive array of available theoretical results, the literature has been largely silent about uncertainty quantification for deep learning. This paper takes a step forward in this important direction by taking a Bayesian point of view. We study Gaussian approximability of certain aspects of posterior distributions of sparse deep ReLU architectures in non-parametric regression. Building on tools from Bayesian non-parametrics, we provide semi-parametric Bernstein-von Mises theorems for linear and quadratic functionals, which guarantee that implied Bayesian credible regions have valid frequentist coverage. Our results provide new theoretical justifications for (Bayesian) deep learning with ReLU activation functions, highlighting their inferential potential.</p>
+    <p class="pub-abstract">Approximate Bayesian Computation (ABC) enables statistical inference in complex models whose likelihoods are difficult to calculate but easy to simulate from. ABC constructs a kernel-type approximation to the posterior distribution through an accept/reject mechanism which compares summary statistics of real and simulated data. To obviate the need for summary statistics, we directly compare empirical distributions with a Kullback-Leibler (KL) divergence estimator obtained via classification. In particular, we blend flexible machine learning classifiers within ABC to automate fake/real data comparisons. We consider the traditional accept/reject kernel as well as an exponential weighting scheme which does not require the ABC acceptance threshold. Our theoretical results show that the rate at which our ABC posterior distributions concentrate around the true parameter depends on the estimation error of the classifier. We derive limiting posterior shape results and find that, with a properly scaled exponential kernel, asymptotic normality holds. We demonstrate the usefulness of our approach on simulated examples as well as real data in the context of stock volatility estimation.</p>
     
 
     
@@ -561,8 +561,8 @@
           <div class="col-12 col-md-9">
             
             
-            <a href="/publication/#1">
-              Conference paper
+            <a href="/publication/#3">
+              Preprint
             </a>
             
           </div>
@@ -573,18 +573,6 @@
     <div class="d-md-none space-below"></div>
     
 
-    
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9"><em>Artificial Intelligence and Statistics (2020)</em></div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <div class="d-md-none space-below"></div>
     
 
     <div class="space-below"></div>
@@ -618,7 +606,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=/publication/uq-dl/&amp;text=Uncertainty%20Quantification%20for%20Sparse%20Deep%20Learning" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=/publication/abc-gan/&amp;text=Approximate%20Bayesian%20Computation%20via%20Classification" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -631,7 +619,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=/publication/uq-dl/&amp;t=Uncertainty%20Quantification%20for%20Sparse%20Deep%20Learning" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=/publication/abc-gan/&amp;t=Approximate%20Bayesian%20Computation%20via%20Classification" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -644,7 +632,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Uncertainty%20Quantification%20for%20Sparse%20Deep%20Learning&amp;body=/publication/uq-dl/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Approximate%20Bayesian%20Computation%20via%20Classification&amp;body=/publication/abc-gan/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -657,7 +645,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=/publication/uq-dl/&amp;title=Uncertainty%20Quantification%20for%20Sparse%20Deep%20Learning" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=/publication/abc-gan/&amp;title=Approximate%20Bayesian%20Computation%20via%20Classification" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -670,7 +658,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Uncertainty%20Quantification%20for%20Sparse%20Deep%20Learning%20/publication/uq-dl/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Approximate%20Bayesian%20Computation%20via%20Classification%20/publication/abc-gan/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -683,7 +671,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=/publication/uq-dl/&amp;title=Uncertainty%20Quantification%20for%20Sparse%20Deep%20Learning" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=/publication/abc-gan/&amp;title=Approximate%20Bayesian%20Computation%20via%20Classification" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -745,11 +733,11 @@
     <h3>Related</h3>
     <ul>
       
-      <li><a href="/publication/abc-gan/">Approximate Bayesian Computation via Classification</a></li>
+      <li><a href="/publication/abcforest/">Variable Selection with ABC Bayesian Forests</a></li>
       
       <li><a href="/publication/da-dl/">Scalable Data Augmentation for Deep Learning</a></li>
       
-      <li><a href="/publication/abcforest/">Variable Selection with ABC Bayesian Forests</a></li>
+      <li><a href="/publication/uq-dl/">Uncertainty Quantification for Sparse Deep Learning</a></li>
       
     </ul>
   </div>
