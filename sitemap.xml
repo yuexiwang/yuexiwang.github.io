@@ -28,16 +28,6 @@
   </url>
   
   <url>
-    <loc>/tags/source-themes/</loc>
-    <lastmod>2021-11-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2021-11-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/tetsuya-kaji/</loc>
     <lastmod>2021-11-24T00:00:00+00:00</lastmod>
   </url>
@@ -78,12 +68,12 @@
   </url>
   
   <url>
-    <loc>/authors/nicholas-g-polson/</loc>
+    <loc>/publication/da-dl/</loc>
     <lastmod>2019-03-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/da-dl/</loc>
+    <loc>/authors/nicholas-g-polson/</loc>
     <lastmod>2019-03-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -117,6 +107,10 @@
   
   <url>
     <loc>/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
   </url>
   
   <url>
