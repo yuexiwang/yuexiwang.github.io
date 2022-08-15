@@ -3,27 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2022-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2022-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/da-dl/</loc>
+    <lastmod>2022-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/nicholas-g-polson/</loc>
+    <lastmod>2022-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2022-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2022-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/vadim-sokolov/</loc>
+    <lastmod>2022-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/yuexi-wang/</loc>
+    <lastmod>2022-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication_types/3/</loc>
     <lastmod>2021-11-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/abc-gan/</loc>
-    <lastmod>2021-11-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2021-11-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2021-11-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
     <lastmod>2021-11-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -35,16 +60,6 @@
   <url>
     <loc>/authors/veronika-rockova/</loc>
     <lastmod>2021-11-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/yuexi-wang/</loc>
-    <lastmod>2021-11-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -65,21 +80,6 @@
   <url>
     <loc>/publication/uq-dl/</loc>
     <lastmod>2020-02-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/da-dl/</loc>
-    <lastmod>2019-03-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/nicholas-g-polson/</loc>
-    <lastmod>2019-03-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/vadim-sokolov/</loc>
-    <lastmod>2019-03-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
