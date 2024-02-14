@@ -33,6 +33,14 @@
     </item>
     
     <item>
+      <title>Horseshoe Priors for Sparse Dirichlet-Multinomial Models</title>
+      <link>https://yuexiwang.github.io/publication/ph-dm/</link>
+      <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://yuexiwang.github.io/publication/ph-dm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Approximate Bayesian Computation via Classification</title>
       <link>https://yuexiwang.github.io/publication/abc-gan/</link>
       <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
@@ -256,7 +264,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-769351284&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-724618395&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -266,7 +274,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-769351284&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-724618395&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
