@@ -5,15 +5,15 @@
     <link>https://yuexiwang.github.io/publication/</link>
       <atom:link href="https://yuexiwang.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 13 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 13 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://yuexiwang.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://yuexiwang.github.io/media/icon_hu_d326456e644321e8.png</url>
       <title>Publications</title>
       <link>https://yuexiwang.github.io/publication/</link>
     </image>
     
     <item>
-      <title>Horseshoe Priors for Sparse Dirichlet-Multinomial Models</title>
+      <title>Pochhammer Priors for Sparse Count Models</title>
       <link>https://yuexiwang.github.io/publication/ph-dm/</link>
       <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://yuexiwang.github.io/publication/ph-dm/</guid>
