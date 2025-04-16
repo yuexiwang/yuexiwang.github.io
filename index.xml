@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>Optimal Transport-Based Generative Models for Bayesian Posterior Sampling</title>
+      <link>https://yuexiwang.github.io/publication/ot/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://yuexiwang.github.io/publication/ot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Pochhammer Priors for Sparse Count Models</title>
       <link>https://yuexiwang.github.io/publication/ph-dm/</link>
       <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
@@ -45,42 +53,10 @@
     </item>
     
     <item>
-      <title>Column-Oriented Database Application Evolution Using Conceptual Models</title>
-      <link>https://yuexiwang.github.io/talk/column-oriented-database-application-evolution-using-conceptual-models/</link>
-      <pubDate>Thu, 07 Apr 2022 13:00:00 -0400</pubDate>
-      <guid>https://yuexiwang.github.io/talk/column-oriented-database-application-evolution-using-conceptual-models/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Variable Selection with ABC Bayesian Forests</title>
       <link>https://yuexiwang.github.io/publication/abcforest/</link>
       <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://yuexiwang.github.io/publication/abcforest/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fast Nested Dependency Mining</title>
-      <link>https://yuexiwang.github.io/talk/fast-nested-dependency-mining/</link>
-      <pubDate>Wed, 16 Dec 2020 12:00:00 -0400</pubDate>
-      <guid>https://yuexiwang.github.io/talk/fast-nested-dependency-mining/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Challeges in Enhancing Schema Discovery of JSON Documents</title>
-      <link>https://yuexiwang.github.io/talk/challeges-in-enhancing-schema-discovery-of-json-documents/</link>
-      <pubDate>Thu, 19 Nov 2020 13:00:00 -0400</pubDate>
-      <guid>https://yuexiwang.github.io/talk/challeges-in-enhancing-schema-discovery-of-json-documents/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A view from the ivory tower: Participating in Apache as a member of academia</title>
-      <link>https://yuexiwang.github.io/talk/a-view-from-the-ivory-tower-participating-in-apache-as-a-member-of-academia/</link>
-      <pubDate>Thu, 01 Oct 2020 14:55:00 -0400</pubDate>
-      <guid>https://yuexiwang.github.io/talk/a-view-from-the-ivory-tower-participating-in-apache-as-a-member-of-academia/</guid>
       <description></description>
     </item>
     

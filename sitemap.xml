@@ -2,19 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://yuexiwang.github.io/publication/ph-dm/</loc>
-    <lastmod>2024-02-13T00:00:00+00:00</lastmod>
+    <loc>https://yuexiwang.github.io/publication/ot/</loc>
+    <lastmod>2025-04-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://yuexiwang.github.io/publication-type/preprint/</loc>
-    <lastmod>2024-02-13T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://yuexiwang.github.io/publication_types/</loc>
-    <lastmod>2024-02-13T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://yuexiwang.github.io/publication/</loc>
+    <lastmod>2025-04-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yuexiwang.github.io/publication/ph-dm/</loc>
     <lastmod>2024-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -38,28 +42,8 @@
     <lastmod>2022-08-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://yuexiwang.github.io/talk/column-oriented-database-application-evolution-using-conceptual-models/</loc>
-    <lastmod>2022-04-07T13:00:00-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://yuexiwang.github.io/event/</loc>
-    <lastmod>2022-04-07T13:00:00-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://yuexiwang.github.io/publication/abcforest/</loc>
     <lastmod>2021-02-16T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://yuexiwang.github.io/talk/fast-nested-dependency-mining/</loc>
-    <lastmod>2020-12-16T12:00:00-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://yuexiwang.github.io/talk/challeges-in-enhancing-schema-discovery-of-json-documents/</loc>
-    <lastmod>2020-11-19T13:00:00-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://yuexiwang.github.io/talk/a-view-from-the-ivory-tower-participating-in-apache-as-a-member-of-academia/</loc>
-    <lastmod>2020-10-01T14:55:00-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://yuexiwang.github.io/publication-type/conference-paper/</loc>

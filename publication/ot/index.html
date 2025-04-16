@@ -316,12 +316,12 @@
 
   
 
-<meta name="description" content="Assistant Professor" />
+<meta name="description" content="We investigate the problem of sampling from posterior distributions with intractable normalizing constants in Bayesian inference. Our solution is a new generative modeling approach based on optimal transport (OT) that learns a deterministic map from a reference distribution to the target posterior through constrained optimization. The method uses structural constraints from OT theory to ensure uniqueness of the solution and allows efficient generation of many independent, high-quality posterior samples. The framework supports both continuous and mixed discrete-continuous parameter spaces, with specific adaptations for latent variable models and near-Gaussian posteriors. Beyond computational benefits, it also enables new inferential tools based on OT-derived multivariate ranks and quantiles for Bayesian exploratory analysis and visualization. We demonstrate the effectiveness of our approach through multiple simulation studies and a real-world data analysis." />
 
 
 
-<link rel="alternate" hreflang="en-us" href="https://yuexiwang.github.io/publication-type/preprint/" />
-<link rel="canonical" href="https://yuexiwang.github.io/publication-type/preprint/" />
+<link rel="alternate" hreflang="en-us" href="https://yuexiwang.github.io/publication/ot/" />
+<link rel="canonical" href="https://yuexiwang.github.io/publication/ot/" />
 
 
 
@@ -358,14 +358,20 @@
 
   
 
-<meta property="og:type" content="website" />
+<meta property="og:type" content="article" />
 <meta property="og:site_name" content="Yuexi Wang" />
-<meta property="og:url" content="https://yuexiwang.github.io/publication-type/preprint/" />
-<meta property="og:title" content="Preprint | Yuexi Wang" />
-<meta property="og:description" content="Assistant Professor" /><meta property="og:image" content="https://yuexiwang.github.io/media/icon_hu_d326456e644321e8.png" /><meta property="og:locale" content="en-us" />
+<meta property="og:url" content="https://yuexiwang.github.io/publication/ot/" />
+<meta property="og:title" content="Optimal Transport-Based Generative Models for Bayesian Posterior Sampling | Yuexi Wang" />
+<meta property="og:description" content="We investigate the problem of sampling from posterior distributions with intractable normalizing constants in Bayesian inference. Our solution is a new generative modeling approach based on optimal transport (OT) that learns a deterministic map from a reference distribution to the target posterior through constrained optimization. The method uses structural constraints from OT theory to ensure uniqueness of the solution and allows efficient generation of many independent, high-quality posterior samples. The framework supports both continuous and mixed discrete-continuous parameter spaces, with specific adaptations for latent variable models and near-Gaussian posteriors. Beyond computational benefits, it also enables new inferential tools based on OT-derived multivariate ranks and quantiles for Bayesian exploratory analysis and visualization. We demonstrate the effectiveness of our approach through multiple simulation studies and a real-world data analysis." /><meta property="og:image" content="https://yuexiwang.github.io/media/icon_hu_d326456e644321e8.png" /><meta property="og:locale" content="en-us" />
 
   
-    <meta property="og:updated_time" content="2025-04-14T00:00:00&#43;00:00" />
+    <meta
+      property="article:published_time"
+      content="2024-01-01T00:00:00&#43;00:00"
+    />
+  
+  
+    <meta property="article:modified_time" content="2025-04-14T00:00:00&#43;00:00">
   
 
 
@@ -373,6 +379,49 @@
 
 
 
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://yuexiwang.github.io/publication/ot/"
+  },
+  "headline": "Optimal Transport-Based Generative Models for Bayesian Posterior Sampling",
+  
+  "datePublished": "2024-01-01T00:00:00Z",
+  "dateModified": "2025-04-14T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Ke Li"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Yuexi Wang",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://yuexiwang.github.io/media/icon_hu_c6e42d2d32478f97.png"
+    }
+  },
+  "description": "We investigate the problem of sampling from posterior distributions with intractable normalizing constants in Bayesian inference. Our solution is a new generative modeling approach based on optimal transport (OT) that learns a deterministic map from a reference distribution to the target posterior through constrained optimization. The method uses structural constraints from OT theory to ensure uniqueness of the solution and allows efficient generation of many independent, high-quality posterior samples. The framework supports both continuous and mixed discrete-continuous parameter spaces, with specific adaptations for latent variable models and near-Gaussian posteriors. Beyond computational benefits, it also enables new inferential tools based on OT-derived multivariate ranks and quantiles for Bayesian exploratory analysis and visualization. We demonstrate the effectiveness of our approach through multiple simulation studies and a real-world data analysis."
+}
+</script>
+
+  
+
+  
 
 
 
@@ -382,8 +431,6 @@
   
 
   
-  
-    <link rel="alternate" href="/publication-type/preprint/index.xml" type="application/rss+xml" title="Yuexi Wang" />
   
 
   
@@ -420,7 +467,7 @@
 
 
   
-  <title>Preprint | Yuexi Wang</title>
+  <title>Optimal Transport-Based Generative Models for Bayesian Posterior Sampling | Yuexi Wang</title>
 
   
   
@@ -440,7 +487,7 @@
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   "  >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="69e1675ad42cf015ba686ce172616cb1" >
 
   
   
@@ -724,96 +771,92 @@
     
 
 
-
-
-
-
-
-
-
-
-
-
-
-  
-
-  
-  
   
     
-  
-<div class="universal-wrapper pt-3">
-  <h1>Preprint</h1>
-
-  
-
-  
-</div>
-
-
-
-<div class="universal-wrapper">
+    
   
 
 
+<div class="pub">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
   
 
   
+  
+  
+<div class="article-container pt-3">
+  <h1>Optimal Transport-Based Generative Models for Bayesian Posterior Sampling</h1>
+
+  
+
   
     
 
 
-
-
-
-
+<div class="article-metadata">
 
   
-
-
-
-
-
-
-
   
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/publication/ot/" >Optimal Transport-Based Generative Models for Bayesian Posterior Sampling</a>
-    </div>
-
+  
+  
+  <div>
     
-    <a href="/publication/ot/"  class="summary-link">
-      <div class="article-style">
-        We investigate the problem of sampling from posterior distributions with intractable normalizing constants in Bayesian inference. Our …
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        
 
   <span >
       Ke Li</span>, <span >
       Wei Han</span>, <span >
       Yuexi Wang</span>, <span >
       Yun Yang</span>
-      </div>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
       
-    </div>
+    
+    April, 2025
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
 
     
-    <div class="btn-links">
-      
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
 
 
 
@@ -828,7 +871,7 @@
 
 
 
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/pdf/2504.08214" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header" href="https://arxiv.org/pdf/2504.08214" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -848,216 +891,113 @@
 
 
 
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
 </div>
 
-  
-    
-
-
-
-
-
-
 
   
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/publication/ph-dm/" >Pochhammer Priors for Sparse Count Models</a>
-    </div>
-
-    
-    <a href="/publication/ph-dm/"  class="summary-link">
-      <div class="article-style">
-        Bayesian inference for Dirichlet-Multinomial (DM) models has a long and important history. The concentration parameter $\alpha$ is …
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        
-
-  <span >
-      Yuexi Wang</span>, <span >
-      Nicholas G. Polson</span>
-      </div>
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/pdf/2402.09583.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
 </div>
 
-  
-    
 
 
-
-
-
-
-
-  
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/publication/abs/" >Adversarial Bayesian Simulation</a>
-    </div>
+  <div class="article-container">
 
     
-    <a href="/publication/abs/"  class="summary-link">
-      <div class="article-style">
-        In the absence of explicit or tractable likelihoods, Bayesians often resort to approximate Bayesian computation (ABC) for inference. …
+    <h3>Abstract</h3>
+    <p class="pub-abstract">We investigate the problem of sampling from posterior distributions with intractable normalizing constants in Bayesian inference. Our solution is a new generative modeling approach based on optimal transport (OT) that learns a deterministic map from a reference distribution to the target posterior through constrained optimization. The method uses structural constraints from OT theory to ensure uniqueness of the solution and allows efficient generation of many independent, high-quality posterior samples. The framework supports both continuous and mixed discrete-continuous parameter spaces, with specific adaptations for latent variable models and near-Gaussian posteriors. Beyond computational benefits, it also enables new inferential tools based on OT-derived multivariate ranks and quantiles for Bayesian exploratory analysis and visualization. We demonstrate the effectiveness of our approach through multiple simulation studies and a real-world data analysis.</p>
+    
+
+    
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            <a href="/publication/#preprint">
+              Preprint
+            </a>
+          </div>
+        </div>
       </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        
-
-  <span >
-      Yuexi Wang</span>, <span >
-      Veronika Rockova</span>
-      </div>
-      
+      <div class="col-md-1"></div>
     </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/pdf/2208.12113.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    </div>
+    <div class="d-md-none space-below"></div>
     
 
-  </div>
-  <div class="ml-3">
     
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
     
-  </div>
+
+
+
+
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+  </ul>
 </div>
 
+
+
+
+
+
+
+
+
+
+
   
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
 
   
 
-  
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
 </div>
   </div>
 
