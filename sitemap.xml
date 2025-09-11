@@ -2,19 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://yuexiwang.github.io/publication/ot/</loc>
-    <lastmod>2025-04-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://yuexiwang.github.io/publication-type/preprint/</loc>
-    <lastmod>2025-04-14T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://yuexiwang.github.io/publication_types/</loc>
-    <lastmod>2025-04-14T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://yuexiwang.github.io/publication/</loc>
+    <lastmod>2025-09-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yuexiwang.github.io/publication/langevin/</loc>
+    <lastmod>2025-09-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yuexiwang.github.io/publication/ot/</loc>
     <lastmod>2025-04-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
