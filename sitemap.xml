@@ -2,19 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://yuexiwang.github.io/publication/dts/</loc>
+    <lastmod>2026-04-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yuexiwang.github.io/publication-type/preprint/</loc>
+    <lastmod>2026-04-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yuexiwang.github.io/publication_types/</loc>
+    <lastmod>2026-04-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yuexiwang.github.io/publication/</loc>
+    <lastmod>2026-04-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://yuexiwang.github.io/publication/abs/</loc>
     <lastmod>2026-02-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://yuexiwang.github.io/publication-type/journal-article/</loc>
-    <lastmod>2026-02-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://yuexiwang.github.io/publication_types/</loc>
-    <lastmod>2026-02-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://yuexiwang.github.io/publication/</loc>
     <lastmod>2026-02-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -24,10 +32,6 @@
   </url><url>
     <loc>https://yuexiwang.github.io/publication/lfi-sm/</loc>
     <lastmod>2026-01-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://yuexiwang.github.io/publication-type/preprint/</loc>
-    <lastmod>2025-09-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://yuexiwang.github.io/publication/langevin/</loc>
